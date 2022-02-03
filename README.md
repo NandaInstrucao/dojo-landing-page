@@ -13,8 +13,8 @@ Neste Dojo, vamos desenvolver uma Landing Page para a confeitaria LGPDoces. Util
     - Use as propriedades `left` e `top` para retirrar espaços em branco. 
   
 2. Crie um menu para o cabeçalho:
-    - Adicione 3 elementos `h3` com os nomes *"SOBRE"*, *"SERVIÇOS"* e *"CONTATO"*, que deverão ficar à esquerda do cabeçalho; 
-    - Adicione um elemento `h1` com o nome *"LGPDoces"*, que deverá ficar à direita do cabeçalho;
+    - Adicione 3 elementos `h3` com os nomes *"SOBRE"*, *"SERVIÇOS"* e *"CONTATO"*, que deverão ficar à direita do cabeçalho; 
+    - Adicione um elemento `h1` com o nome *"LGPDoces"*, que deverá ficar à esquerda do cabeçalho;
     - **Dica:** Use o `display: inline-block`.
   
 3. Faça com que **todas** as fontes sejam da família **Arial** e da cor `#1f1c0d`.
